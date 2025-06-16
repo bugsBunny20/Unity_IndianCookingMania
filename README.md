@@ -46,8 +46,8 @@ You play as a chef in a busy Indian food stall. Your goal is to serve as many cu
 
 ## 📷 Screenshots
 
-| Gameplay Preview | UI Layout |
-|------------------|-----------|
+| Location Selection | Level Selection | Gameplay Preview | Level Completed | Store | 
+|--------------------|-----------------|------------------|-----------------|-------|
 | ![Menu](screenshots/menu.jpg) | ![Level Selection](screenshots/level_selection.jpg) | ![gameplay](screenshots/gameplay.jpg) | ![Level Done](screenshots/level_done.jpg) |  ![Store](screenshots/store.jpg) |
 
 ---
